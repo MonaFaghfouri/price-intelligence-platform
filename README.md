@@ -245,19 +245,19 @@ Export to Excel
 ### Home
 
 <p align="center">
-  <img src="screenshots/home.png" width="850">
+  <img src="screenshots/home.PNG" width="850">
 </p>
 
 ### Product Search
 
 <p align="center">
-  <img src="screenshots/search.png" width="850">
+  <img src="screenshots/search.PNG" width="850">
 </p>
 
 ### Results
 
 <p align="center">
-  <img src="screenshots/results.png" width="850">
+  <img src="screenshots/results.PNG" width="850">
 </p>
 
 ---
