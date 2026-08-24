@@ -1,1 +1,73 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# ==============================
+# Virtual environments
+# ==============================
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Environment variables / Secrets
+# ==============================
+.env
+.env.*
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs / Temporary files
+# ==============================
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# ==============================
+# Local data / exports
+# ==============================
+*.xlsx
+*.xls
+
+# ==============================
+# Production / Private source
+# ==============================
+app.py
+app_*.py
+production/
+private/
+private_src/
+scrapers/
+connectors/
+
+# ==============================
+# Credentials / Keys
+# ==============================
+*.pem
+*.key
+credentials.json
+config.local.*
